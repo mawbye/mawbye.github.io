@@ -1,0 +1,14 @@
+# Site settings
+title: Elliot's First Site
+email: mawbye@carleton.edu
+description: > # this means to ignore newlines until "baseurl:"
+  This is my first site that I built following the Awesome Inc.
+  Jekyll tutorial.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: N/A
+github_username:  mawbye
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
