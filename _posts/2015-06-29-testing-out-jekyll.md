@@ -2,7 +2,7 @@
 layout: post
 title:  "Checking Out Jekyll!"
 date:   2015-06-29 13:43:29
-categories: jekyll testing
+categories: jekyll update
 ---
 # New blog post!
 
