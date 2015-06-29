@@ -8,7 +8,6 @@ categories: jekyll update
 
 ## Having fun with Jekyll and GitHub Pages!
 
-Now We're going to write some stuff in this blog post, and hopegully
-this stuff is way more exciting than that boring lorem ipsum garbage
-that you usually see. Well, that's all I can think of, so I guess we'll
-move on now.
+This is my first blog post on my static jekyll website!
+I've had issues with github build errors so if this appears
+then everything is great!
