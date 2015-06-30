@@ -12,3 +12,5 @@ github_username:  mawbye
 # Build settings
 markdown: kramdown
 highlighter: pygments
+permalink: pretty
+custom_variable: dog
